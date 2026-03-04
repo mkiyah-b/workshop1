@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #daf2c9;
+  h1 {
+    text-align: center;
+    font-size: 50px;
+    color: #446b29;
+    font-family: "Times New Roman", Times, serif;
+  }
+}
+canvas {
+  display: block;
+  margin: auto;
+}
+
+img {
+  margin: auto;
+  display: block;
+  width: 60px;
+  padding: 2px;
+}
