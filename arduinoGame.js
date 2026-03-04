@@ -135,7 +135,7 @@ function draw() {
   fill(0)
   textSize(18)
   text("Current Score", 990, 20)
-  text("High Score", 1110, 20)
+  // text("High Score", 1110, 20)
   textSize(20)
   text(currentScore, 990, 40)
   text(highScore, 1110, 40)
@@ -227,5 +227,6 @@ function message() {
     }
   }
 }
+
 
 
