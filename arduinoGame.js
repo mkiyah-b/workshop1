@@ -26,7 +26,7 @@ class cactus {
     this.x = 1200
     this.y = 245
     this.xV = 2.2
-    this.grass = loadImage('grass.PNG');
+    this.grass = loadImage("grass.PNG");
   }
   
   display() {
@@ -228,3 +228,4 @@ function message() {
   }
 
 }
+
