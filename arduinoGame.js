@@ -61,7 +61,7 @@ function setup() {
 
   connectBtn = createButton("Connect to Arduino");
   connectBtn.mousePressed(connectBtnClick);
-  connectBtn.position(1100,490)
+  connectBtn.position(1300,800)
   textFont('Times New Roman')
 }
 
@@ -227,6 +227,7 @@ function message() {
     }
   }
 }
+
 
 
 
